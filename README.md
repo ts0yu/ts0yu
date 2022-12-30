@@ -1,4 +1,14 @@
-### Hi there 👋
+hey im ts0yu
+im a 14 yr old researcher + dev focused on building optimized and robust systems
+
+currently working on:
+  - [arbiter](https://github.com/primitivefinance/arbiter)
+  - [redacted]
+
+interested in:
+  - linear algebra + differential geometry
+  - ml
+  - rust
 
 <!--
 **ts0yu/ts0yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
