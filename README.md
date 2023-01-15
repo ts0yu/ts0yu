@@ -8,7 +8,7 @@ currently working on:
 
 interested in:
   - linear algebra + differential geometry
-  - ml
+  - ml + rl
   - rust
 
 <!--
