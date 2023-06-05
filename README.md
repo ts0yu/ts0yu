@@ -1,16 +1,19 @@
-hey im ts0yu
+hey im **ts0yu**
 
-im a researcher + dev focused on building optimized and robust systems
+im a researcher and engineer focused on building optimized and robust systems
 
 currently working on:
-  - [arbiter](https://github.com/primitivefinance/arbiter)
-  - [redacted]
+  - tau capital - quantitative systematic proprietary trading firm
+  - [`arbiter`](https://github.com/primitivefinance/arbiter)
 
-interested in:
-  - linear algebra + differential geometry
-  - ml + rl
-  - rust
-
+interested in (no particular order):
+<h5>
+  <li>quantitative finance
+  <li>mev
+  <li>mathematics
+  <li>ml
+  <li>rust
+</h5>
 <!--
 **ts0yu/ts0yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
