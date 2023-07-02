@@ -5,7 +5,7 @@ im a researcher and engineer focused on building optimized and robust systems
 14 yrs old
 
 currently working on:
-  - tau capital - quantitative systematic proprietary trading firm
+  - tau capital - research/mev firm
   - [`arbiter`](https://github.com/primitivefinance/arbiter)
 
 interested in (no particular order):
