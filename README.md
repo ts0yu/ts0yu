@@ -2,7 +2,7 @@ hey im **ts0yu**
 
 im a researcher and engineer focused on building optimized and robust systems
 
-14 yrs old
+15 yrs old
 
 currently working on:
   - tau capital - research/mev firm
