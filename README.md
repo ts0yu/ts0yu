@@ -1,8 +1,2 @@
-hey, i am **ts0yu**
-
-15, researcher and engineer focused on building optimized and robust ml/ai systems
-
-currently working on:
-  - [`arbiter`](https://github.com/primitivefinance/arbiter)
-
-
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background-color: coral;]{x0000}$}
