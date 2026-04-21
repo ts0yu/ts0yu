@@ -1,7 +1,5 @@
 ### Welcome!
-I am a 16 year old builder focussed on designing robust and fast systems in the Rust programming language, and doing unique research.
-
-Highly interested in topics such as machine learning, mathematical physics (particularly computational), simulations/modelling and compiler design.
+I am a 17 year old builder focussed on designing robust and fast systems in the Rust programming language, and doing unique research.
 
 Below is a list of open-source work I'm particularly proud of:
 - [Arena](https://github.com/anthias-labs/arena)
@@ -14,8 +12,3 @@ Below is a list of open-source work I'm particularly proud of:
 
 - Intern @ [Sorella Labs](https://sorellalabs.xyz) 
 - Research engineer @ [Alongside](https://alongside.xyz) at age 13
-
- #### Miscellaneous
-- Co-wrote a paper in 2 weeks for the NeurIPS high school paper track. Using convolutional LSTM networks, we predicted food insecurity to unprecedented spatial granularity and high accuracy using fewer indicators than the official FEWS (Food Insecurity Early Warning System) predictions.
-
- Currently studying A-levels in Further Mathematics, Mathematics, Physics and Chemistry.
