@@ -1,5 +1,5 @@
 ### Welcome!
-I am a 17 year old builder focussed on designing robust and fast systems in the Rust programming language, and doing unique research.
+I am an 18 year old builder focussed on designing robust and fast systems in the Rust programming language, and doing unique research.
 
 Below is a list of open-source work I'm particularly proud of:
 - [Arena](https://github.com/anthias-labs/arena)
